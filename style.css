@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(71, 70, 70);
+}
+.card-box {
+  width: 300px;
+  height: 300px;
+  margin: 150px auto;
+  padding: 30px;
+  border-radius: 25px;
+  text-align: center;
+ box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.img-box {
+  height: 130px;
+  width: 130px;
+  display: flex;
+  margin: auto;
+  border: 3px solid white;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.text{
+    padding-top: 10px;
+    color: white;
+}
+.text p{
+color: gray;
+padding: 5px;
+}
+.text i{
+    font-size: 25px;
+    margin: 5px;
+}
