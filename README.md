@@ -8,3 +8,17 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 click [here](https://jafarian-ha.github.io/profile-card) to see demo
 
 ![nextonecode](https://next1code.ir/wp-content/uploads/2024/01/nodejs-course-cover.jpg)
+
+```javascript
+function app(){
+    console.log('hello world');
+}
+```
+
+---
+### table and alignment
+
+| First Name  | Last Name | Age     |
+| :---        |  :----:   |    ---: |
+| ali         | ahmadi    | 20      |
+| mina        | sadegi    | 27      |
